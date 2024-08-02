@@ -24,6 +24,7 @@
     "vite": "^5.3.5"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.51.21",
     "react-router-dom": "^6.26.0"
   }
 }
