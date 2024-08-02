@@ -10,6 +10,7 @@ export default function Results({ pets }) {
           <Pet
             // also can be done by doing {...pet}
             name={pet.name}
+            id={pet.id}
             breed={pet.breed}
             animal={pet.animal}
             images={pet.images}
